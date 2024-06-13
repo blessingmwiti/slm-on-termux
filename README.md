@@ -1,4 +1,4 @@
-# Running SML on Android Termux
+# Running SLM on Android Termux
 
 ## Install Termux
 
