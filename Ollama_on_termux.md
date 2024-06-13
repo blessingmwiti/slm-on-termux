@@ -15,6 +15,16 @@ cd ollama
 go generate ./...
 go build .
 ./ollama serve &
+```
+
+You can cancel once complete by doing 
+```bash
+ctrl + c
+```
+
+## Running phi
+
+```bash
 ./ollama run phi
 ```
 
